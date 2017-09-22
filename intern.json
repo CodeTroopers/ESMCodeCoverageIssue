@@ -1,0 +1,14 @@
+{
+	"loader": {
+		"script": "loader.js"
+	},
+	"instrumenterOptions": {
+		"esModules": true
+	},
+	"coverage": [
+		"main.js"
+	],
+	"suites": [
+		"test.js"
+	]
+}
